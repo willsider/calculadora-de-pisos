@@ -1,0 +1,19 @@
+{
+  "name": "calculadora_de_pisos",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3",
+    "vite": "^2.8.0"
+  },
+  "dependencies": {
+    "npm-git-install": "^0.3.0"
+  }
+}
